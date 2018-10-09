@@ -29,7 +29,7 @@ ENV MARIADB_LOG_DIR "/home/LogFiles/mysql"
 ENV PHPMYADMIN_SOURCE "/usr/src/phpmyadmin"
 ENV PHPMYADMIN_HOME "/home/phpmyadmin"
 #Web Site Home
-ENV HOME_SITE "/home/site/wwwroot/web"
+ENV HOME_SITE "/home/site/wwwroot"
 
 #
 ENV DOCKER_BUILD_HOME "/dockerbuild"
